@@ -39,6 +39,6 @@ public class User {
 	}
 	
 	public String setEmail(String email) {
-		return email;
+		return this.email = email;
 	}
 }
